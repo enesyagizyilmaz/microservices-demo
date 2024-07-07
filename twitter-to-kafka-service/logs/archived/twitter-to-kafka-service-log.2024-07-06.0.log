@@ -1,0 +1,16 @@
+2024-07-06 16:14:31 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on LAPTOP-G1L7NH1I with PID 5184 (C:\Users\Enes Yağız Yılmaz\IdeaProjects\microservices-demo\twitter-to-kafka-service\target\classes started by Enes Yağız Yılmaz in C:\Users\Enes Yağız Yılmaz\IdeaProjects\microservices-demo)
+2024-07-06 16:14:31 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2024-07-06 16:14:32 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.699 seconds (JVM running for 1.324)
+2024-07-06 16:14:32 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application started
+2024-07-06 16:14:32 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2024-07-06 16:14:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on LAPTOP-G1L7NH1I with PID 25664 (C:\Users\Enes Yağız Yılmaz\IdeaProjects\microservices-demo\twitter-to-kafka-service\target\classes started by Enes Yağız Yılmaz in C:\Users\Enes Yağız Yılmaz\IdeaProjects\microservices-demo)
+2024-07-06 16:14:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2024-07-06 16:14:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.669 seconds (JVM running for 1.312)
+2024-07-06 16:14:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application started
+2024-07-06 16:14:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2024-07-06 16:24:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on LAPTOP-G1L7NH1I with PID 24772 (C:\Users\Enes Yağız Yılmaz\IdeaProjects\microservices-demo\twitter-to-kafka-service\target\classes started by Enes Yağız Yılmaz in C:\Users\Enes Yağız Yılmaz\IdeaProjects\microservices-demo)
+2024-07-06 16:24:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2024-07-06 16:24:50 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.676 seconds (JVM running for 1.303)
+2024-07-06 16:24:50 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Application started
+2024-07-06 16:24:50 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2024-07-06 16:24:50 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
